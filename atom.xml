@@ -4,7 +4,7 @@
         <title>Jalen's Blog</title>
         <link>https://blog.jalenchuh.cn/</link>
         <description>JalenChuh - 爱折腾的少年</description>
-        <lastBuildDate>Sat, 29 Aug 2020 17:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2020 17:56:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://blog.jalenchuh.cn/atom.xml" rel="self" type="application/rss+xml"/>
@@ -14,6 +14,8 @@
             <guid>https://blog.jalenchuh.cn/posts/test/</guid>
             <pubDate>Sat, 29 Aug 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>TestTestTest</p>
+<p>big</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2020/jpeg/1322920/1598723003382-73e2643f-a572-46ca-9653-b32c8e04b6ab.jpeg" alt="Alt text" title="optional title"></p>
 <p>1.</p>
 <p><img src="https://cdn.nlark.com/yuque/0/2020/png/1322920/1598275478954-3541ea13-02db-4d58-a9ea-aaacb74541d3.png" alt="Alt text" title="optional title"></p>
 <p>2</p>
@@ -3313,25 +3315,6 @@ int main() {ssd
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Hello World]]></title>
-            <link>https://blog.jalenchuh.cn/posts/hello-world/</link>
-            <guid>https://blog.jalenchuh.cn/posts/hello-world/</guid>
-            <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p>2019 年 11 月 24 日，我的博客诞生了！</p>
-<p>$$
-Hello; World
-$$</p>
-<pre><code class="language-cpp">#include &lt;iostream&gt;
-using namespace std;
-
-int main() {
-    cout &lt;&lt; &quot;你好世界&quot; &lt;&lt; endl;
-    cout &lt;&lt; &quot;Hello World&quot; &lt;&lt; endl;
-    return 0;
-}</code></pre>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2019 CSP 游记]]></title>
             <link>https://blog.jalenchuh.cn/posts/2019-csp/</link>
             <guid>https://blog.jalenchuh.cn/posts/2019-csp/</guid>
@@ -3500,6 +3483,25 @@ hjj 手机放在窗户那拍视频，然后睡着了，拍了快一小时，哈�
 <p>一学期过去了，因为整理图床，再次看了这篇文章
 或许只有我们这些因为能和队友们一起去住宾馆，才有这些欢乐吧...
 然后发现自己原来写的真的...都想重写一遍了...</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <link>https://blog.jalenchuh.cn/posts/hello-world/</link>
+            <guid>https://blog.jalenchuh.cn/posts/hello-world/</guid>
+            <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>2019 年 11 月 24 日，我的博客诞生了！</p>
+<p>$$
+Hello; World
+$$</p>
+<pre><code class="language-cpp">#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+    cout &lt;&lt; &quot;你好世界&quot; &lt;&lt; endl;
+    cout &lt;&lt; &quot;Hello World&quot; &lt;&lt; endl;
+    return 0;
+}</code></pre>
 ]]></content:encoded>
         </item>
     </channel>
