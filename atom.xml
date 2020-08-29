@@ -4,7 +4,7 @@
         <title>Jalen's Blog</title>
         <link>https://blog.jalenchuh.cn/</link>
         <description>JalenChuh - 爱折腾的少年</description>
-        <lastBuildDate>Sat, 29 Aug 2020 02:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2020 03:44:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://blog.jalenchuh.cn/atom.xml" rel="self" type="application/rss+xml"/>
